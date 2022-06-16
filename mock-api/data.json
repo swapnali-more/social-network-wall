@@ -1,0 +1,137 @@
+{
+  "users": [
+    {
+      "email": "omkar@test.com",
+      "username": "Omkar",
+      "password": "test123",
+      "id": 1
+    },
+    {
+      "email": "test@test.com",
+      "username": "Test",
+      "password": "test123",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "username": "Omkar",
+      "text": "test",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/sbook-eadcc.appspot.com/o/images%2F1651661373250?alt=media&token=185c314e-13b4-41fd-b2e7-76ac0e77f04b",
+      "likes": [],
+      "comments": [],
+      "id": 1
+    },
+    {
+      "username": "Omkar",
+      "text": "test",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/sbook-eadcc.appspot.com/o/images%2F1651661600269?alt=media&token=e79c74dc-dfcb-463a-9a08-fb5141900764",
+      "likes": [],
+      "comments": [],
+      "id": 2
+    },
+    {
+      "username": "Omkar",
+      "text": "Ask laftan anlamaz",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/sbook-eadcc.appspot.com/o/images%2F1651661972014?alt=media&token=35b9c0a9-a836-4329-a756-7a6adb7af1fa",
+      "likes": [],
+      "comments": [],
+      "id": 3
+    },
+    {
+      "username": "Omkar",
+      "text": "Hello guys",
+      "imageURL": "",
+      "likes": [],
+      "comments": [],
+      "id": 4
+    },
+    {
+      "username": "Omkar",
+      "text": "",
+      "imageURL": "",
+      "likes": [],
+      "comments": [
+        {
+          "username": "Omkar",
+          "comment": ""
+        },
+        {
+          "username": "Omkar",
+          "comment": "dfddff"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "username": "Omkar",
+      "text": "",
+      "imageURL": "",
+      "likes": [],
+      "comments": [],
+      "id": 6
+    },
+    {
+      "username": "Omkar",
+      "text": "",
+      "imageURL": "",
+      "likes": [],
+      "comments": [
+        {
+          "username": "Omkar",
+          "comment": "test"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "username": "Omkar",
+      "text": "",
+      "imageURL": "",
+      "likes": [],
+      "comments": [],
+      "id": 8
+    },
+    {
+      "username": "Omkar",
+      "text": "test",
+      "imageURL": "",
+      "likes": [],
+      "comments": [],
+      "id": 9
+    },
+    {
+      "username": "Omkar",
+      "text": "test",
+      "imageURL": "",
+      "likes": [],
+      "comments": [],
+      "id": 10
+    },
+    {
+      "username": "Omkar",
+      "text": "testing",
+      "imageURL": "",
+      "likes": [],
+      "comments": [
+        {
+          "username": "Omkar",
+          "comment": ""
+        },
+        {
+          "username": "Omkar",
+          "comment": "test"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "username": "Omkar",
+      "text": "",
+      "imageURL": "",
+      "likes": [],
+      "comments": [],
+      "id": 12
+    }
+  ]
+}

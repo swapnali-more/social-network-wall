@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "sbook-eadcc": {
+      "hosting": {
+        "social-network-wall": [
+          "sbook-eadcc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "sbook-eadcc"
+  }
+}

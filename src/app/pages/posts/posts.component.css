@@ -1,0 +1,74 @@
+
+
+.content-wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 80%;
+    margin: 10px auto;
+}
+
+.new-post-actions-container{
+    display: flex;
+    flex-direction: row;
+    height: 6vh;
+    align-items: center;
+}
+
+.post-button{
+    background-color: #4285F4;
+    color: white;
+    width: 118px;
+}
+
+.image-button{
+    margin-left: 20px;
+}
+.image-input{
+    width: 100%;
+}
+
+.post-card{
+    background-color: white;
+    /* width: 100%; */
+    box-shadow: 0 2px 6px 1px rgba(0, 0, 0, 0.2);
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+mat-card-content{
+    font-size: 18px;
+}
+
+.like-button{
+    color: red;
+    /* padding: auto; */
+    height: 50px;
+    width: 50px;
+    /* background-color: #4285F4; */
+}
+.mat-icon{
+    font-size: 30px;
+}
+
+.title{
+    font-size: 17px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+b{
+    font-weight: 450;
+}
+
+.comment-input{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:50px;
+}
+
+.comment-form-field{
+    width: 80%;
+}
